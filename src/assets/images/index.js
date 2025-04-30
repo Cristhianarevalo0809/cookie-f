@@ -1,0 +1,13 @@
+export { default as img1 } from './bg-20.jpg';
+export { default as img2 } from './bg-21.jpg';
+export { default as img3 } from './bg-12.avif';
+export { default as img4 } from './bg-13.jpg';
+export { default as img5 } from './bg-14.avif';
+export { default as img6 } from './bg-15.avif';
+export { default as img7 } from './bg-16.avif';
+export { default as img8 } from './bg-17.avif';
+export { default as img9 } from './bg-18.jpg';
+export { default as img10 } from './bg-23.jpg';
+export { default as img11 } from './bg-24.avif';
+export { default as img12 } from './bg-25.avif';
+export { default as img13 } from './bg-26.avif';
